@@ -1,0 +1,27 @@
+
+tiefighter.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiefighter00
+  rotate: false
+  xy: 2, 2
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+tiefighter01
+  rotate: false
+  xy: 274, 2
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+tiefighter02
+  rotate: false
+  xy: 546, 2
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1

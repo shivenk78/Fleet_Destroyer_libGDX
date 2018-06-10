@@ -1,0 +1,34 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+deadwing
+  rotate: false
+  xy: 2, 304
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+deadwing01
+  rotate: false
+  xy: 274, 334
+  size: 300, 270
+  orig: 300, 270
+  offset: 0, 0
+  index: -1
+deadwing02
+  rotate: false
+  xy: 2, 2
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+deadwing03
+  rotate: false
+  xy: 274, 62
+  size: 300, 270
+  orig: 300, 270
+  offset: 0, 0
+  index: -1

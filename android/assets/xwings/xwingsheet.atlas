@@ -1,0 +1,41 @@
+
+xwingsheet.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xwing
+  rotate: false
+  xy: 2, 606
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+xwing01
+  rotate: false
+  xy: 2, 304
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+xwing02
+  rotate: false
+  xy: 274, 606
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+xwing03
+  rotate: false
+  xy: 2, 2
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+xwing04
+  rotate: false
+  xy: 274, 304
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
